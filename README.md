@@ -12,3 +12,10 @@ Features:
 * Cache Support
 * WordPress integrate as Custom Page
 * Clean Style
+
+
+Working Example:
+======
+
+http://probam.net/android-kikat-download
+http://probam.net/android-kikat-download/?device=n7100
