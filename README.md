@@ -17,5 +17,5 @@ Features:
 Working Example:
 ======
 
-http://probam.net/android-kikat-download
-http://probam.net/android-kikat-download/?device=n7100
+* http://probam.net/android-kikat-download
+* http://probam.net/android-kikat-download/?device=n7100
